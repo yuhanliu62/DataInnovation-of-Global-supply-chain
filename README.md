@@ -1,4 +1,4 @@
-# DataInnovation of Global supply chain
+# DataInnovation of Global Supply Chain
 
 Coded with Python and MySQL database. The process is as follows:  
 1. Assembled a web crawler using Python to scrape product resources from original data websites using urllib.  
